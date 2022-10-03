@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **react, vue, vanilla**
+- 💬 Ask me about **ReactJS, VueJS, VanillaJS**
 
 <p align="left">
 </p>
