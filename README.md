@@ -1,3 +1,6 @@
+<p align="center">
+<img height="350" src="https://cdn.dribbble.com/users/2766433/screenshots/5532542/lady_desktop_prep_bkg_v01.gif" />
+</p>
 <h1 align="center">Hi 👋, I'm Saphie Hanadi</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria, Sofia</h3>
 
