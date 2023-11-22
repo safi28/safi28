@@ -2,7 +2,7 @@
 <img height="350" src="https://cdn.dribbble.com/users/2766433/screenshots/5532542/lady_desktop_prep_bkg_v01.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Saphie Hanadi</h1>
-<h3 align="center">A passionate Software Developer from Bulgaria, Sofia</h3>
+<h3 align="center">A passionate Software Developer from Sofia, Bulgaria</h3>
 
 - 🔭 I’m currently working on **couple of projects**
 
