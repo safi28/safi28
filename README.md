@@ -12,8 +12,8 @@
 I'm a passionate full stack developer from **Sofia, Bulgaria**, with **5+ years** of experience crafting performant, scalable web and mobile applications. I specialize in modern JavaScript and TypeScript frameworks including **React**, **Vue**, **Next.js**, **Node.js**, and **NestJS**.  
 
 - 🌍 Worked on systems serving **10,000+ users across 15 countries**
-- 🧠 Strong in clean architecture, modern DevOps, and scalable cloud-native apps
-- 🛠️ Skilled with **Docker**, **CI/CD (Azure Pipelines)**, and headless CMS platforms like **AEM**, **Prismic**, and **Sanity**
+- 🧠 Strong in clean architecture, modern full-stack development, and building scalable cloud-native applications
+- 🛠️ Skilled with JavaScript/TypeScript, Node.js, REST APIs, and headless CMS platforms like AEM, Prismic, and Sanity
 
 > 💬 I love building solutions that blend clean code with meaningful UX.
 
