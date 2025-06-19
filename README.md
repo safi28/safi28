@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Saphie Hanadi</h1>
-<h3 align="center">Senior Full Stack Developer | JavaScript Ecosystem Expert </h3>
+<h3 align="center">Senior Full Stack Developer | JavaScript and loading... </h3>
 
 ---
 
 ### 🔥 About Me
 
-I'm a passionate full stack developer from **Sofia, Bulgaria**, with **5+ years** of experience crafting performant, scalable web and mobile applications. I specialize in modern JavaScript and TypeScript frameworks including **React**, **Vue**, **Next.js**, **Node.js**, and **NestJS**.  
+I'm a passionate full stack developer with **5+ years** of experience crafting performant, scalable web and mobile applications. I specialize in modern JavaScript and TypeScript frameworks including **React**, **Vue**, **Next.js**, **Node.js**, and **NestJS**.  
 
 - 🌍 Worked on systems serving **10,000+ users across 15 countries**
 - 🧠 Strong in clean architecture, modern full-stack development, and building scalable cloud-native applications
