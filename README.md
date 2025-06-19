@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Saphie Hanadi</h1>
-<h3 align="center">Senior Full Stack Developer | JavaScript and loading... </h3>
+<h3 align="center">Senior Full Stack Developer | JavaScript, Node.js and loading 🔧... </h3>
 
 ---
 
